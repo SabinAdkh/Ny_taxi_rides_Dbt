@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: staging
+    database: excellent-shard-410800
+    schema: nyc_taxi_data
+    tables:
+      - name: green_taxi_data
+      - name: yellow_taxi_data
