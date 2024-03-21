@@ -5,5 +5,5 @@ sources:
     database: excellent-shard-410800
     schema: nyc_taxi_data
     tables:
-      - name: green_taxi_data
-      - name: yellow_taxi_data
+      - name: green_tripdata
+      - name: yellow_tripdata
